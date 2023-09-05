@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arseniy, I'm interested in web development. I'm always glad to learn something new
+My name is Arseniy, I'm interested in web development, specifically in frontend. I'm always glad to learn something new
 
 ### The main technologies I use: 
 
