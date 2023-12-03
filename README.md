@@ -8,7 +8,9 @@ My name is Arseniy, I'm interested in web development, specifically in frontend.
 * CSS;
 * JavaScript & TypeScript;
 * SCSS;
-* Vite.
+* Vite;
+* Vue JS;
+* React.
 
 ### How to connect with me: 
 
